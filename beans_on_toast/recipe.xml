@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+  <name>Beans On Toast</name>
+  <img>beanz.jpg</img>
+  <totaltime>600</totaltime>
+  <ingredients>2 Slices of bread
+    1 can of beans
+    Butter</ingredients>
+  <type>4</type>
+  <videoname>null</videoname>
+  <step>
+  <speed>0</speed>
+  <temp>0</temp>
+  <time>0</time>
+  <describe>Toast the bread</describe>
+  </step>
+  <step>
+  <speed>1</speed>
+  <temp>95</temp>
+  <time>600</time>
+  <reverse>yes</reverse>
+  <describe>Empty the can of beans into the mixing bowl, and heat them up.</describe>
+  </step>
+  <step>
+  <speed>0</speed>
+  <temp>0</temp>
+  <time>0</time>
+  <describe>When the toast is ready butter it, and pour the beans on top.</describe>
+  </step>
+</recipe>
