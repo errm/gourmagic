@@ -6,6 +6,22 @@ a Kitchen machine the Gourmia - GourMagic Pro GMK9000
 This machine is an Android powered food mixer / cooker that seems quite similar
 (as far as I can tell) to the popular (and expensive) Thermomix kitchen machines.
 
+## The machine
+
+This machine is currently relatively good value (£60) on Amazon UK
+
+* https://www.amazon.co.uk/gp/product/B07JC8VXQG  (£60)
+* https://www.amazon.co.uk/Gourmia-GKM9000-Multi-Cooker-Kitchen-Machine/dp/B08CRW22ZB (£80)
+
+I have tried cooking a number of Thermomix recipes on it without any issues,
+and for me it is worth the money just to not stir my porridge by hand every morning.
+
+Since it seems like it will be easy to add my own recipes, and perhaps update
+the software on the machine it also seems worthwhile as an engineering project.
+
+* The machine seems to be running (an old) version of android.
+* There is a working web-browser.
+* It has a USB port, a micro-sd card and can connect to WiFi.
 
 ## sdcard
 
