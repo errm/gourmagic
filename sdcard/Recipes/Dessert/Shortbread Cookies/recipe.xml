@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Shortbread Cookies</name>
+<img>shortbread cookies.jpg</img>
+<totaltime>80</totaltime>
+<ingredients>Makes about 1 1/2 dozen cookies
+
+114 grams sugar (about 1/2 cup)
+255 grams all-purpose flour (about 2 cups)
+227 grams butter (1/2 pound)
+1 tablespoon vanilla bean paste
+1/2 teaspoon salt</ingredients>
+<type>3</type>
+<videoname>null</videoname>
+<step>
+<speed>10</speed>
+<temp>0</temp>
+<time>10</time>
+<describe>Add all ingredients.
+
+Repeat the blending 8 times by press "cook again", or until dough comes together in large pieces.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Form into a roll about 2 inches in diameter, wrap in plastic wrap, and refrigerate until well chilled, or overnight.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>When you're ready to bake, heat the oven to 400 degrees. Slice the roll into 1/4-inch thick slices and place on two parchment-lined baking sheets. Bake until lightly browned around the edges, 12-14 minutes.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Let the cookies cool on the baking sheet for a minute or two before removing from the sheets and cooling completely on a rack.</describe>
+</step>
+</recipe>

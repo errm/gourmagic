@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Refried Beans</name>
+<img>8 refried beans with chips.jpg</img>
+<totaltime>7230</totaltime>
+<ingredients>Water to just below fill line (1800 grams or about 2 quarts)
+225 grams (8 ounces) dried pinto beans
+1 teaspoon salt (plus more, to taste)
+1/4 teaspoon cumin
+1/8 teaspoon garlic powder
+2 tablespoons olive oil
+1/2 teaspoon dried epazote</ingredients>
+<type>3</type>
+<videoname>null</videoname>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Fill the bowl with water to about 1/2-inch below the maximum cooking line (about 1800 grams or 2 quarts)</describe>
+</step>
+<step>
+<speed>1</speed>
+<temp>95</temp>
+<time>3600</time>
+<describe>Put the pinto beans into the cooking basket and insert the basket into the bowl.</describe>
+</step>
+<step>
+<speed>1</speed>
+<temp>95</temp>
+<time>3600</time>
+<describe>Add salt.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Check the beans for tenderness. If you want a super-smooth puree, the beans need to be very soft, and almost mushy. If you want slightly chunkier refried beans, the beans should be cooked through, but not falling apart.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Remove the cooking basket from the bowl and discard all but 1 cup of the cooking liquid.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Put the beans back into the pot along with the reserved cooking water. Add the cumin, garlic powder, olive oil and epazote.</describe>
+</step>
+<step>
+<speed>5</speed>
+<temp>0</temp>
+<time>30</time>
+<describe>During 30 seconds, starting at speed 5 and slowly going up to speed 8</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Taste the refried beans and add more salt or additional spices, if desired.</describe>
+</step>
+</recipe>

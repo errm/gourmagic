@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Steamed Spicy Fish and Vegetables</name>
+<img>Spicy steamed fish and vegetables.jpg</img>
+<totaltime>2400</totaltime>
+<ingredients>227 grams (1 cup) water
+113 grams (1/2 cup) white wine
+80 grams (1 cup) shredded carrot
+240 grams (12 ounces) tilapia, cod, or similar fish filets
+1 tomato (240 grams)
+115 grams kernels cut from 1 ear of corn (about 1 cup)
+2 scallions
+1/2 teaspoon paprika (hot, sweet, or smoked, your choice)
+Salt and pepper, to taste
+74 grams (1/2 cup) roughly chopped pimento-stuffed green olives
+1 tablespoon thinly sliced fresh chives
+1 serrano pepper, thinly sliced
+2 tablespoons olive oil</ingredients>
+<type>3</type>
+<videoname>null</videoname>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Add the water and wine to the mixing bowl.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Scatter the carrots in the lower steam tray, then top with the fish fillets in one layer. Pay attention to how the fish filets are arranged so you can remove them easily after cooking. They’ll be completely covered with vegetables after cooking.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Dice the tomato and scatter the pieces on top of the fish.
+
+Scatter the corn on top.
+
+Slice the scallions thinly and scatter them on top.
+
+Sprinkle the paprika evenly over the top and add salt and pepper to taste.
+
+Scatter the olives on top.
+Scatter the chives on top.
+Scatter the pepper on top.
+Drizzle the olive oil evenly over all.</describe>
+</step>
+<step>
+<speed>1</speed>
+<temp>100</temp>
+<time>2400</time>
+<describe>Place the steam tray on top of the bowl with the lid on top.
+
+The cooking time for the fish will vary depending on the thickness of the filets. Check after 30 minutes, and cook longer, as required.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Remove the fish filets gently and serve with the vegetables.</describe>
+</step>
+</recipe>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Cranberry Jam</name>
+<img>cranberry jam.jpg</img>
+<totaltime>5710</totaltime>
+<ingredients>484 grams (1 pound) peeled, cored, and quartered apples
+57 grams (1/4 cup or 2 ounces) water
+2 teaspoons salt
+968 grams (2 pounds) fresh or frozen cranberries
+400 grams (about 2 cups) sugar, or to taste
+57 grams (1/4 cup or 2 ounces) bourbon
+1 tablespoon vanilla extract
+2 teaspoons ground ginger</ingredients>
+<type>4</type>
+<videoname>null</videoname>
+<step>
+<speed>10</speed>
+<temp>0</temp>
+<time>10</time>
+<describe>Add apples, water, and salt.</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>95</temp>
+<time>600</time>
+<describe>heat</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>95</temp>
+<time>600</time>
+<describe>Add half of the cranberries.</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>100</temp>
+<time>3600</time>
+<describe>Add the remaining cranberries.</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>100</temp>
+<time>900</time>
+<describe>Add sugar, bourbon, vanilla, and ginger</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Remove the lid carefully as the mixture may still be boiling. Use a spoon to take a sample of the mixture and let it cool before tasting. Add more sugar, salt, or ginger, as desired.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Transfer to storage jars, or, for a completely smooth jam, pass through a fine-mesh strainer to remove seeds and skins.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Keep refrigerated.</describe>
+</step>
+</recipe>

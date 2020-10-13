@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Very Veggie Spaghetti Sauce</name>
+<img>spaghetti sauce.jpg</img>
+<totaltime>4248</totaltime>
+<ingredients>Makes about 2 quarts – enough for 1 pound of very saucy pasta or 1 1/2 pounds of more lightly sauced pasta
+
+1 garlic clove
+1 medium carrot, cut in 4 pieces (80 grams)
+1 onion (170 grams) cut in 4 pieces
+1 red bell pepper, cored, seeded, and cut in chunks (200 grams)
+450 grams mushrooms, cleaned (about 1 pound)
+1 small zucchini (170 grams) cut in 4 chunks
+411 grams (14.5 ounce) can petite diced tomatoes
+170 grams (6 ounces) tomato paste
+425 grams (15 ounces) tomato sauce
+1 tablespoon salt
+1 tablespoon dry oregano
+1 teaspoon dry basil
+1 teaspoon dry marjoram
+1/4 teaspoon ground black pepper
+1/4 teaspoon ground fennel
+Pinch of red pepper flakes</ingredients>
+<type>4</type>
+<videoname>null</videoname>
+<step>
+<speed>10</speed>
+<temp>0</temp>
+<time>5</time>
+<describe>Add:
+1 garlic clove
+1 medium carrot, cut in 4 pieces (80 grams)
+</describe>
+</step>
+<step>
+<speed>10</speed>
+<temp>0</temp>
+<time>5</time>
+<describe>Add:
+Scrape down bowl. 1 onion (170 grams) cut in 4 pieces</describe>
+</step>
+<step>
+<speed>10</speed>
+<temp>0</temp>
+<time>10</time>
+<describe>Add:
+Scrape down bowl. 1 red bell pepper, cored, seeded, and cut in chunks (200 grams)</describe>
+</step>
+<step>
+<speed>5</speed>
+<temp>0</temp>
+<time>20</time>
+<describe>Add:
+Scrape down bowl. 450 grams mushrooms, cleaned (about 1 pound)
+</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>110</temp>
+<time>300</time>
+<describe>And then</describe>
+</step>
+<step>
+<speed>5</speed>
+<temp>0</temp>
+<time>8</time>
+<describe>Add:
+Scrape down bowl. 1 small zucchini (170 grams) cut in 4 chunks</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>100</temp>
+<time>300</time>
+<describe>And cook</describe>
+</step>
+<step>
+<speed>1</speed>
+<temp>95</temp>
+<time>3600</time>
+<describe>Scrape down bowl. Add Whipping attachment
+Add:
+411 grams (14.5 ounce) can petite diced tomatoes
+170 grams (6 ounces) tomato paste
+425 grams (15 ounces) tomato sauce
+1 tablespoon salt
+1 tablespoon dry oregano
+1 teaspoon dry basil
+1 teaspoon dry marjoram
+1/4 teaspoon ground black pepper
+1/4 teaspoon ground fennel
+Pinch of red pepper flakes</describe>
+</step>
+</recipe>

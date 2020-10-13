@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Mac and Cheese</name>
+<img>4 mac and cheese.jpg</img>
+<totaltime>810</totaltime>
+<ingredients>8 ounces pasta, cooked to just under al dente and drained
+2 tablespoons butter
+1/4 cup flour
+2 cups milk
+175 grams shredded mild cheddar cheese
+60 grams cream cheese
+Cayenne pepper or black pepper, to taste
+Salt, to taste
+Frozen broccoli florets, to taste (optional)</ingredients>
+<type>4</type>
+<videoname>null</videoname>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Cook the pasta in salted boiling water on the stovetop according to package directions while making the cheese sauce. </describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>100</temp>
+<time>60</time>
+<describe>Put the butter and flour in the mixing bowl.</describe>
+</step>
+<step>
+<speed>1</speed>
+<temp>100</temp>
+<time>120</time>
+<describe>Scrape down the sides of the bowl.</describe>
+</step>
+<step>
+<speed>1</speed>
+<temp>100</temp>
+<time>600</time>
+<describe>Add the milk</describe>
+</step>
+<step>
+<speed>6</speed>
+<temp>0</temp>
+<time>30</time>
+<describe>Add the shredded cheddar cheese and the cream cheese.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>When the pasta is slightly less cooked than al dente, drain the water and add the finished cheese sauce. Heat to simmer, stirring. Add the pepper and salt, to taste. If desired, add frozen broccoli florets, if desired. Frozen peas also work well.</describe>
+</step>
+</recipe>

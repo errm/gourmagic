@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Potato Pancakes</name>
+<img>Potato pancakes with applesauce.jpg</img>
+<totaltime>20</totaltime>
+<ingredients>10 3 1/2 inch pancakes
+
+100 grams onion (1/2 onion)
+260 grams (3/4 pound) potatoes (about 2 potatoes)
+2 tablespoons flour
+Generous pinch of salt
+Several grinds of black pepper
+2 eggs
+Vegetable oil, as needed</ingredients>
+<type>3</type>
+<videoname>null</videoname>
+<step>
+<speed>10</speed>
+<temp>0</temp>
+<time>10</time>
+<describe>Cut the onion in half again. Peel the potatoes and cut into chunks.
+
+Add the onion, potato, flour, salt, and pepper to the bowl.</describe>
+</step>
+<step>
+<speed>10</speed>
+<temp>0</temp>
+<time>10</time>
+<describe>Scrape down the bowl.
+
+Add the eggs to the bowl.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Check the size of the onions and potatoes. There should be no very large pieces left. Process again, if necessary.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Heat the oil in saute pan on medium heat. Portion the potato mixture in medium-sized scoops leaving space between, then flatten to about 1/4 inch thick. You'll probably need to make several batches.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Fry on the first side until nicely browned, then flip them over and fry on the second side.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Serve hot with applesauce, sour cream, or both.</describe>
+</step>
+</recipe>

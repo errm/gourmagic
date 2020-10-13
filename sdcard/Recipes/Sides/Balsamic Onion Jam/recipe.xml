@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Balsamic Onion Jam</name>
+<img>Onion Jam.jpg</img>
+<totaltime>6030</totaltime>
+<type>4</type>
+<videoname>null</videoname>
+<ingredients>907 grams (2 pounds) onions
+(28 grams) 2 tablespoons butter
+1/2 teaspoon salt
+Add 3 tablespoons balsamic vinegar</ingredients>
+<step>
+<speed>5</speed>
+<temp>0</temp>
+<time>20</time>
+<describe>Peel the onions and cut in quarters.
+
+Put the onions, butter, and salt in the mixing bowl.</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>110</temp>
+<time>2400</time>
+<describe>Scrape down.
+Add the whip. 
+Remove the measuring cup from the lid.</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>110</temp>
+<time>3600</time>
+<describe>Add the balsamic vinegar. Add measuring cup.</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>110</temp>
+<time>3600</time>
+<describe>Scrape down the bowl.</describe>
+</step>
+</recipe>

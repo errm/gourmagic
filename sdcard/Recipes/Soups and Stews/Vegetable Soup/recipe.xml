@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Vegetable Soup</name>
+<img>6 soup.jpg</img>
+<totaltime>3628</totaltime>
+<ingredients>125 grams carrot (2 medium carrots), cut in 2-inch chunks
+70 grams celery (about 2 stalks), cut in 2-inch chunks
+170 grams onion (1 medium onion) peeled and cut into eight pieces
+Kernels from 2 ears corn or 1 can (15.25 ounces) of corn, drained
+1 teaspoon salt
+1 teaspoon sage
+1/2 teaspoon thyme
+1 quart chicken or vegetable stock
+1/2 cup tomato juice
+1 tablespoon lime juice</ingredients>
+<type>2</type>
+<videoname>null</videoname>
+<step>
+<speed>10</speed>
+<temp>0</temp>
+<time>10</time>
+<describe>Place carrots in the bowl.</describe>
+</step>
+<step>
+<speed>8</speed>
+<temp>0</temp>
+<time>8</time>
+<describe>Scrape down the bowl. Add the celery</describe>
+</step>
+<step>
+<speed>8</speed>
+<temp>0</temp>
+<time>10</time>
+<describe>Scrape down the bowl. Add the onion.</describe>
+</step>
+<step>
+<speed>1</speed>
+<temp>95</temp>
+<time>3600</time>
+<describe>Scrape down, then add the remaining ingredients.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Serve hot. Add cooked pasta or rice, if desired.</describe>
+</step>
+</recipe>

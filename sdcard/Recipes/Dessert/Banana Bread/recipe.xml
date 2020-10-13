@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Banana Bread</name>
+<img>banana bread.jpg</img>
+<totaltime>210</totaltime>
+<type>3</type>
+<videoname>null</videoname>
+<ingredients>191 grams (1 1/2 cups) all purpose flour
+1 teaspoon baking soda
+3 large bananas (about 375 grams)
+113 grams unsalted butter (1 stick)
+1/2 teaspoon salt
+1 egg
+1/2 cup sugar</ingredients>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Spray an 8x4 loaf pan with baking spray. Set the oven for 350 degrees. </describe>
+</step>
+<step>
+<speed>10</speed>
+<temp>0</temp>
+<time>10</time>
+<describe>Add the bananas and butter.</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>100</temp>
+<time>180</time>
+<describe>Then</describe>
+</step>
+<step>
+<speed>10</speed>
+<temp>0</temp>
+<time>10</time>
+<describe>And then</describe>
+</step>
+<step>
+<speed>10</speed>
+<temp>0</temp>
+<time>5</time>
+<describe>Add the egg</describe>
+</step>
+<step>
+<speed>10</speed>
+<temp>0</temp>
+<time>5</time>
+<describe>Add sugar</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>0</temp>
+<time>120</time>
+<describe>Add flour and baking soda to the bowl while running. Press Cook Again until fully incorporated. 
+Do not overmix –it’s fine if there are still a few small lumps.
+</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Pour the batter into the prepared 8x4 loaf pan and bake at 350 degrees for about an hour, until a toothpick inserted into the loaf comes out clean. Check the loaf about 10 minutes early and cook longer, as needed.</describe>
+</step>
+</recipe>

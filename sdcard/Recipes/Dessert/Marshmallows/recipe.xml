@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Marshmallows</name>
+<img>5 Marshmallows.jpg</img>
+<totaltime>300</totaltime>
+<ingredients>4 teaspoons unflavored gelatin 
+4 tablespoons cold water 
+1/4 cup powdered sugar 
+2 tablespoons corn-starch 
+Baking spray 
+3 tablespoons water 
+1 cup sugar 
+1/2 cup corn syrup 
+1/4 teaspoons salt 
+1 1/2 teaspoons vanilla extract </ingredients>
+<type>1</type>
+<videoname>null</videoname>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Put the unflavored gelatin and 4 tablespoons of water into a bowl, making sure the gelatin powder is on the bottom of the bowl and not on the blades.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>In a small bowl, mix the cornstarch with the powdered sugar. Spray an 8x8 square pan with the baking spray, then sprinkle with sugar and cornstarch mixture, making sure that it’s very well coated. Reserve the remaining sugar/cornstarch mixture for later use. Combine the 3 tablespoons of water, sugar, corn syrup, salt, and vanilla extract in a saucepan. Cover the saucepan and heat to a boil and let it cook for a minute before removing the lid. Continue cooking until the temperature reaches 121.5 Celsius on a thermometer</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>0</temp>
+<time>60</time>
+<describe>Once your mixture is hot start you machine</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Very carefully pour the hot sugar into the bowl through the center of the lid while machine is running. </describe>
+</step>
+<step>
+<speed>8</speed>
+<temp>0</temp>
+<time>240</time>
+<describe>Let the machine continue running until the marshmallow mixture begins to cool (carefully touch the side of the bowl to gauge the temperature) and it’s no longer increasing in volume.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Pour the marshmallow into prepared pan. Sprinkle the remaining sugar/cornstarch mixture on top. Allow the marshmallows to cool, uncovered, for at least four hours or overnight to let it firm up. Turn the giant marshmallow out of the pan onto a cutting board. Use a sharp knife or pizza cutter to cut the marshmallow into strips, then cut the strips into squares. Sprinkle extra powdered sugar on the squares and toss them around to coat the cut edges, or they’ll stick together. Store in a sealed container.</describe>
+</step>
+</recipe>

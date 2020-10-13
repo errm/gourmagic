@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Cheese Spread</name>
+<img>Cheese Spread.jpg</img>
+<totaltime>120</totaltime>
+<type>4</type>
+<videoname>null</videoname>
+<ingredients>8 ounce cream cheese 
+8 ounces grated cheddar, Swiss, or similar cheese 
+2 ounces goat cheese or blue cheese 
+2 ounces grated parmesan, Romano, or asiago cheese 
+1 tablespoon Dijon mustard 
+1/4 cup white wine 
+1/4 cup buttermilk (or as needed) 
+Additional flavorings (optional)</ingredients>
+<step>
+<speed>5</speed>
+<temp>0</temp>
+<time>40</time>
+<describe>Add all ingredients to the bowl.</describe>
+</step>
+<step>
+<speed>5</speed>
+<temp>0</temp>
+<time>40</time>
+<describe>Scrape down the bowl. And repeat 3 times. </describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Add more buttermilk, if desired, for a more spreadable consistency. Taste for seasoning and add salt, pepper, herbs, spices, pimentos or roasted red peppers, hot peppers, or other flavorings, if desired. Blend again after adding seasonings. Transfer to a storage container and refrigerate until needed.</describe>
+</step>
+</recipe>

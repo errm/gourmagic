@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Pizza Dough</name>
+<img>pizza.jpg</img>
+<totaltime>40</totaltime>
+<ingredients>Makes enough for 1 12'' pizza, medium thickness, or 1 10'' very thin pizzas
+
+2 1/2 teaspoons instant yeast 
+1 tablespoon sugar
+284 grams (1 1/4 cups) water
+382 grams (13 1/2 ounces) bread flour (about 3 cups)
+2 tablespoons olive oil, plus additional for drizzling
+1 teaspoon salt
+28 grams (1 ounce) grated parmesan cheese)</ingredients>
+<type>3</type>
+<videoname>null</videoname>
+<step>
+<speed>10</speed>
+<temp>0</temp>
+<time>10</time>
+<describe>Add all ingredients.
+
+Repeat the blending 4 times by pressing "cook again", total, until dough is cohesive.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Add about 1 tablespoon of olive oil to a plastic bag, then transfer the dough to the bag. Seal the bag and refrigerate for a few hours or up to 3 days.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>When you're ready to use the dough, heat the oven to 450 degrees with a pizza stone in the oven.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Remove the dough from the refrigerator. Flour your work surface and turn out the dough. Form the dough into a ball (or divide in half and form into 2 balls, if you wish to make 2 smaller pizzas)</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Roll the dough into a flat disk that will fit your pizza paddle (to transfer the pizza) and your pizza stone. Add sauce and toppings as desired.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Transfer the pizza to the stone in the oven (alternatively, you can bake the pizza on a pizza pan, or form it on parchment paper and transfer the pizza to the oven on the parchment).</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Bake at 450 degrees until the crust is browned on the bottom and edges and the cheese is melted and bubbling and the toppings are hot. A small, thin pizza will take 8-10 minutes; a larger pizza will take 15 minutes or more.</describe>
+</step>
+</recipe>

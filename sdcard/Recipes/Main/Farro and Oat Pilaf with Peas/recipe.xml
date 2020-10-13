@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Farro and Oat Pilaf with Peas</name>
+<img>1 Farro and Oat Pilaf with Peas.jpg</img>
+<totaltime>4210</totaltime>
+<ingredients>170 grams farro
+57 grams oat groats
+1 teaspoon salt
+900 grams water
+1 onion, peeled and quartered
+2 tablespoons butter
+30 grams parmesan cheese
+90 grams (1 cup) frozen peas</ingredients>
+<type>4</type>
+<videoname>null</videoname>
+<step>
+<speed>1</speed>
+<temp>95</temp>
+<time>3600</time>
+<describe>Add the farro, oat groats, salt, and water to the bowl.</describe>
+<reverse>yes</reverse>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Pour the cooked grains into a fine-mesh strainer. Discard the liquid and put the grains into a bowl. Cover the bowl to keep it warm.</describe>
+</step>
+<step>
+<speed>8</speed>
+<temp>0</temp>
+<time>5</time>
+<describe>Add the onion and butter to the bowl.</describe>
+</step>
+<step>
+<speed>8</speed>
+<temp>0</temp>
+<time>5</time>
+<describe>Scrape down the sides of the bowl.</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>110</temp>
+<time>600</time>
+<describe>And then</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Add the cooked onion to the grain, then add the parmesan cheese and frozen peas. Stir to combine. Serve warm.</describe>
+</step>
+</recipe>

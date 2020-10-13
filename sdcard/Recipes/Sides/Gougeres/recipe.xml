@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Gougeres</name>
+<img>2 Gougeres.jpg</img>
+<totaltime>340</totaltime>
+<ingredients>1/2 cup water
+40 grams butter
+1/4 teaspoon salt
+1/4 teaspoon sugar
+Pinch cayenne or chili powder (or more to taste)
+64 grams (1/2 cup) flour
+2 eggs
+56 grams grated cheddar cheese</ingredients>
+<type>3</type>
+<videoname>null</videoname>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Preheat the oven to 425 degrees. Have a baking sheet standing by, lined with parchment paper or a silicone baking mat.</describe>
+</step>
+<step>
+<speed>1</speed>
+<temp>100</temp>
+<time>120</time>
+<describe>Put the water, butter, salt, sugar, and cayenne in the bowl.</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>90</temp>
+<time>120</time>
+<describe>Add the flour.</describe>
+</step>
+<step>
+<speed>7</speed>
+<temp>0</temp>
+<time>60</time>
+<describe>And then</describe>
+</step>
+<step>
+<speed>7</speed>
+<temp>0</temp>
+<time>40</time>
+<describe>Scrape down bowl. Add the eggs to the bowl while the machine is running, then add the cheese during the last 10 seconds.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Transfer the mixture to a piping bag with a wide round tip or use a plastic bag with the tip of one corner cut out. Pipe rounds of batter onto the baking sheet, about the size of a cherry tomato or slightly larger. Leave room between the round for the gougeres to puff.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Bake at 425 degrees for 15 minutes.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Remove the pan from the oven and allow the gougeres to cool on a rack. These are best when freshly baked, but can be re-crisped in the oven if needed.</describe>
+</step>
+</recipe>

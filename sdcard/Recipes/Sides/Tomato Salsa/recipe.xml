@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Tomato Salsa</name>
+<img>salsa2.jpg</img>
+<totaltime>15</totaltime>
+<ingredients>1 serrano pepper
+1/4 teaspoon salt
+1/2 onion (100 grams)
+1 cucumber (90 grams)
+1/2 cup cilantro leaves
+1 teaspoon lime juice
+2 firm tomato – not overripe and soft (500 grams)</ingredients>
+<type>4</type>
+<videoname>null</videoname>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Remove the stem from the chile. Removed the seeds and core, if desired, for a less-hot salsa. 
+
+Cut the onion half once more.</describe>
+</step>
+<step>
+<speed>5</speed>
+<temp>0</temp>
+<time>5</time>
+<describe>Put the serrano chile, salt, and onion in the mixing bowl.</describe>
+</step>
+<step>
+<speed>5</speed>
+<temp>0</temp>
+<time>5</time>
+<describe>Scrape down bowl. Peel the cucumber and cut into chunks.
+Add the cucumber, cilantro, and lime juice to the mixing bowl.</describe>
+</step>
+<step>
+<speed>5</speed>
+<temp>0</temp>
+<time>5</time>
+<describe>Scrape down bowl. Cut the tomato in quarters and remove the core.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Scrape down bowl. Taste for seasoning and add more salt or lime juice, if desired. This can be served immediately, or refrigerated for several hours or overnight to allow the flavors to mingle.</describe>
+</step>
+</recipe>

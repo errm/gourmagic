@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Applesauce</name>
+<img>Applesauce.jpg</img>
+<totaltime>2770</totaltime>
+<type>4</type>
+<videoname>null</videoname>
+<ingredients>907 grams (2 pounds) apples (use different varieties for best flavor. About 5-6 apples)
+1/2 cup water
+2 teaspoons lemon juice
+1/2 teaspoon salt
+1 tablespoon vanilla extract
+2 tablespoons sugar (or to taste)</ingredients>
+<step>
+<speed>5</speed>
+<temp>0</temp>
+<time>40</time>
+<describe>Peel and core the apples and cut into quarters.
+
+Put the apples, water, lemon juice, and salt in the mixing bowl.</describe>
+</step>
+<step>
+<speed>8</speed>
+<temp>0</temp>
+<time>40</time>
+<describe>And then</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>90</temp>
+<time>2700</time>
+<describe>Scrape Bowl. The apples should be chopped into small pieces/ pureed. If needed, press cook again.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Test the apples. They should be soft. Depending on the apple varieties chosen, some might have completely turned into sauce while others have remained in pieces. It's fine if there are pieces, as long as they are tender.</describe>
+</step>
+<step>
+<speed>5</speed>
+<temp>0</temp>
+<time>15</time>
+<describe>Add vanilla extract and sugar.</describe>
+</step>
+<step>
+<speed>8</speed>
+<temp>0</temp>
+<time>15</time>
+<describe>And then</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Taste and adjust sweetness as desired. Transfer to storage containers and refrigerate.</describe>
+</step>
+</recipe>

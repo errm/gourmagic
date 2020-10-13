@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Chocolate Pudding</name>
+<img>chocolate pudding.jpg</img>
+<totaltime>1530</totaltime>
+<ingredients>2 cups half-and-half
+1 tablespoon vanilla extract
+1/2 teaspoon salt
+1 cup milk
+1/4 cup cornstarch
+1/3 cup sugar
+4 ounces dark chocolate</ingredients>
+<type>1</type>
+<videoname>null</videoname>
+<step>
+<speed>1</speed>
+<temp>110</temp>
+<time>300</time>
+<describe>Heat empty mixing bowl</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>100</temp>
+<time>600</time>
+<describe>Fix the blending paddle into the bowl .
+Add half-and half, vanilla extract, and salt while the machine is hot.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Combine the milk, cornstarch, and sugar in measuring cup. Whisk to combine. </describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>100</temp>
+<time>600</time>
+<describe>Start the program, with 1 minute left, while the machine is running, add the above mixture to the bowl from the lid hole.</describe>
+</step>
+<step>
+<speed>1</speed>
+<temp>0</temp>
+<time>30</time>
+<describe>Mixture should be thick.
+Break or chop the chocolate into small pieces.
+Add the chocolate to the mixing bowl. Wait 1 minute.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Strain, if desired, to remove any cornstarch lumps. Pour into storage container. Place piece of plastic directly on top of the warm pudding to keep a skin from forming. Refrigerate until chilled. Serve cold.</describe>
+</step>
+</recipe>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Pizza Sauce</name>
+<img>pizza sauce.jpg</img>
+<totaltime>2415</totaltime>
+<ingredients>Makes about 1 quart
+
+120 grams onion (1 medium onion), peeled and quartered
+3 cloves garlic, peeled
+1 teaspoons fennel powder
+Pinch red pepper flakes (optional)
+1/2 teaspoon dry oregano
+1/2 teaspoon dry basil
+1 teaspoon salt
+2 tablespoons olive oil
+2 15-ounce (425 grams) tomato sauce
+2 teaspoons sugar</ingredients>
+<type>4</type>
+<videoname>null</videoname>
+<step>
+<speed>10</speed>
+<temp>0</temp>
+<time>10</time>
+<describe>Add onion and garlic.</describe>
+</step>
+<step>
+<speed>10</speed>
+<temp>0</temp>
+<time>5</time>
+<describe>Scrap down bowl and lid. Add fennel, red pepper flakes (optional), oregano, basil, and salt.</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>110</temp>
+<time>600</time>
+<describe>Scrape down bowl and lid.Add olive oil. </describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>95</temp>
+<time>1800</time>
+<describe>Add tomato sauce and sugar</describe>
+</step>
+<step>
+<speed>5</speed>
+<temp>0</temp>
+<time>15</time>
+<describe>For a smoother sauce, finish by blending 10-15 seconds</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Transfer the sauce to a storage container and allow it to come to room temperature before refrigerating. It’s  best to add the sauce to the unbaked pizza dough while it is cold, otherwise the dough can soften too much to allow it to be moved to a pizza stone.
+
+This sauce can also be used on pasta, or in calzones, or on vegetables.</describe>
+</step>
+</recipe>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Asparagus Risotto</name>
+<img>asparagus risotto.jpg</img>
+<totaltime>2830</totaltime>
+<type>3</type>
+<videoname>null</videoname>
+<ingredients>120 grams white onion (1 medium onion), peeled and cut in quarters
+28 grams butter (2 tablespoons)
+62 grams (1/4 cup) white wine or white cooking wine
+190 grams (1 cup) Arborio rice
+4 cups chicken or vegetable stock
+1/2 teaspoon salt (or to taste)
+225 grams asparagus, cleaned and cut into 1/4 inch slices
+40 grams (1/2 cup) grated or shredded parmesan cheese, plus more to add at serving time to each dish.</ingredients>
+<step>
+<speed>5</speed>
+<temp>0</temp>
+<time>10</time>
+<describe>Add onion and butter.</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>110</temp>
+<time>600</time>
+<describe>Open lid and use spatula to scrape down the sides so onions are at the bottom.</describe>
+</step>
+<step>
+<speed>1</speed>
+<temp>95</temp>
+<time>120</time>
+<describe>Add wine and rice.</describe>
+</step>
+<step>
+<speed>1</speed>
+<temp>95</temp>
+<time>1200</time>
+<describe>Add 4 cups stock and 1/2 teaspoon salt.</describe>
+</step>
+<step>
+<speed>1</speed>
+<temp>95</temp>
+<time>900</time>
+<describe>Add asparagus</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Stir in parmesan cheese with the spatula. Taste for seasoning and add salt, if needed.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Serve hot. Sprinkle with additional parmesan cheese for garnish, or pass extra cheese at the table.</describe>
+</step>
+</recipe>

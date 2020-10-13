@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Cheesy Creamed Corn</name>
+<img>7 creamed corn.jpg</img>
+<totaltime>608</totaltime>
+<type>4</type>
+<videoname>null</videoname>
+<ingredients>Kernels from 4 ears fresh corn
+4 tablespoons butter
+1/2 teaspoon salt
+113 grams (4 ounces) cream cheese
+Freshly ground black pepper, to taste</ingredients>
+<step>
+<speed>10</speed>
+<temp>0</temp>
+<time>8</time>
+<describe>Add the kernels from two ears of corn, plus all other ingredients, to the bowl.</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>95</temp>
+<time>600</time>
+<describe>Add the remaining corn kernels.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Serve hot.</describe>
+</step>
+</recipe>

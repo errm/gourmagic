@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Rice Pudding</name>
+<img>rice pudding.jpg</img>
+<totaltime>2700</totaltime>
+<ingredients>155 grams sushi rice (about 3/4 cup)
+700 grams water (about 3 cups)
+1 teaspoon salt
+105 grams sugar (about 1/2 cup)
+1 tablespoon vanilla extract
+120 grams heavy cream (about 1/2 cup)</ingredients>
+<type>3</type>
+<videoname>null</videoname>
+<step>
+<speed>1</speed>
+<temp>95</temp>
+<time>2400</time>
+<describe>Add all ingredents except heavy cream. </describe>
+<reverse>yes</reverse>
+</step>
+<step>
+<speed>1</speed>
+<temp>95</temp>
+<time>300</time>
+<describe>120 grams heavy cream (about 1/2 cup)</describe>
+<reverse>yes</reverse>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Remove from machine and refrigerate</describe>
+</step>
+</recipe>

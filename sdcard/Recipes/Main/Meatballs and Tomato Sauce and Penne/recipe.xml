@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Meatballs and Tomato Sauce and Penne</name>
+<img>pasta and meatballs.JPG</img>
+<totaltime>4210</totaltime>
+<ingredients>Meatballs:
+1 pound ground beef
+2 scallions, thinly sliced
+1 egg
+1/2 teaspoon salt
+1 tablespoon dry parsley
+Ground pepper, to taste
+1/4 cup bread crumbs
+
+Tomato sauce:
+1/2 onion (100 grams)
+1/2 green bell pepper
+1 tablespoon olive oil
+1/2 teaspoon salt
+1 tablespoon dry oregano
+1 teaspoon dry basil
+1/2 teaspoon ground fennel
+Pinch of red pepper flakes
+1/4 cup red wine
+14.5 ounce can (411 grams) petite diced tomatoes
+29 ounce can (822 grams) tomato sauce
+Grated cheese (optional)
+
+Pasta:
+2 quarts water
+Salt
+1lb penne</ingredients>
+<type>3</type>
+<videoname>null</videoname>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Make meatballs:
+Combine all of the meatball ingredients in a medium bowl and mix with your hands until combined. Form the meat into 12 even balls. Fry the meatballs in a sauté pan until browned on all sides.</describe>
+</step>
+<step>
+<speed>10</speed>
+<temp>0</temp>
+<time>10</time>
+<describe>Make Tomato Sauce:
+Peel the onion and cut in half. Remove the stem, core, and seeds from the green pepper. Place the onion, green bell pepper, and oil in the mixing bowl.</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>110</temp>
+<time>600</time>
+<describe>Scrape down bowl. Add the salt, oregano, basil, fennel, and red pepper flakes to the bowl.</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>90</temp>
+<time>3600</time>
+<describe>Scrape down bowl. Add the red wine, diced tomatoes, and tomato sauce.
+Place the basket in the mixing bowl. Add the meatballs to the basket.
+</describe>
+</step>
+<step>
+<speed>1</speed>
+<temp>130</temp>
+<time>1080</time>
+<describe>Remove meatballs and set aside covered to keep warm. Clean the mixing bowl and basket. Return the mixing bowl and basket to the machine. Fill the mixing bowl up with 2 quarts of water. </describe>
+</step>
+<step>
+<speed>1</speed>
+<temp>130</temp>
+<time>60</time>
+<describe>Add pasta and cook according to the time on the packaging.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>When pasta is done, carefully remove the inner container .Serve the meatballs and sauce with pasta. Garnish with grated cheese, if desired.
+
+The meatballs can also be served as meatball sandwiches with sauce, and the remaining sauce can be served with pasta.
+</describe>
+</step>
+</recipe>

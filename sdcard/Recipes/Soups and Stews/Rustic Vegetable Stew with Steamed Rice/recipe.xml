@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Rustic Vegetable Stew with Steamed Rice</name>
+<img>3 Vegetable and chickpea stew with rice.jpg</img>
+<totaltime>2415</totaltime>
+<ingredients>1 onion (170 grams), peeled and quartered
+100 grams celery, cut in 2-inch chunks 
+1 clove garlic 
+1 teaspoon salt 
+2 tablespoons olive oil 
+200 grams zucchini, cut in 1-inch chunks 
+1 tablespoon oregano 
+1 teaspoon basil 
+Pinch crushed red pepper flakes 
+15 ounce can garbanzo beans, drained 
+14.5 ounce can petite diced tomatoes 
+75 grams green olives with pimento 
+170 grams quick-cooking rice like Minute Rice (white or multi-grain) 
+2454 grams warm water (or per recipe instructions)</ingredients>
+<type>3</type>
+<videoname>null</videoname>
+<step>
+<speed>8</speed>
+<temp>0</temp>
+<time>10</time>
+<describe>Put the onion, celery, garlic, salt, and olive oil in the bowl.</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>100</temp>
+<time>600</time>
+<describe>And then</describe>
+</step>
+<step>
+<speed>8</speed>
+<temp>0</temp>
+<time>5</time>
+<describe>Add the zucchini, oregano, basil, and red pepper flakes</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>95</temp>
+<time>1800</time>
+<reverse>yes</reverse>
+<describe>Add the garbanzo beans, diced tomatoes, and olives.
+
+Meanwhile, put the rice and water in a heatproof bowl that will fit in the steamer basket with the lid on.
+Put the steamer basket on top of the kitchen machine to replace the lid. Put the bowl of rice into the steamer. Put the lid on the steamer.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Drain any excess water from the rice before serving. Serve the vegetable stew on top of the rice. Top with grated cheese or chopped fresh herbs, if desired.</describe>
+</step>
+</recipe>

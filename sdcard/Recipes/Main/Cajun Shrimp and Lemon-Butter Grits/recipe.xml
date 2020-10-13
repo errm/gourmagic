@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Cajun Shrimp and Lemon-Butter Grits</name>
+<img>Shrimp and grits.jpg</img>
+<totaltime>1800</totaltime>
+<type>3</type>
+<videoname>null</videoname>
+<ingredients>12 ounces shrimp
+160 grams zucchini (1 zucchini), cut lengthwise, then thinly sliced
+1 teaspoon Cajun seasoning
+1 tablespoon olive oil
+166 grams (2 cups) grits or polenta
+887 grams (3 3/4 cups) water
+59 grams (1/4 cup) lemon juice
+113 grams (8 tablespoons) unsalted butter, cut in chunks
+1 teaspoon salt
+2 tablespoons dry chives
+115 grams kernels cut from 1 ear of corn (about 1 cup)</ingredients>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Combine the shrimp, zucchini, Cajun seasoning, and olive oil in a small bowl. Mix well. Let it marinate for 10 minutes at room temperature, or refrigerate for longer marinating, up to several hours.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Add remaining ingredients, except the corn, to the mixing bowl.</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>100</temp>
+<time>1200</time>
+<describe>Arrange the shrimp and zucchini in an even layer in the bottom steam tray. Set the steam tray on top of the mixing container and place the lid on the steam tray.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Check the shrimp for doneness. If they're done you can remove the shrimp from the tray and keep warm, or remove the steam tray lid to keep them warm without cooking much further.</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>100</temp>
+<time>600</time>
+<describe>Remove the steam tray from the mixing bowl (place it on a plate to contain any drips) and add the corn to the grits mixture in the bowl. Place the steam tray back on the mixing bowl.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>The grits will be loose, but will thicken as they cool to serving temperature.
+
+Serve the shrimp and zucchini on top of the grits.</describe>
+</step>
+</recipe>

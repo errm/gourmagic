@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Chocolate Custard Ice Cream Base</name>
+<img>choco ice cream.jpg</img>
+<totaltime>1230</totaltime>
+<ingredients>450 grams milk
+225 grams cup heavy cream
+4 egg yolks
+165 grams sugar
+35 grams cocoa powder
+1 tablespoon vanilla extract
+1/2 teaspoon salt
+115 grams dark chocolate, broken in pieces</ingredients>
+<type>1</type>
+<videoname>null</videoname>
+<step>
+<speed>5</speed>
+<temp>0</temp>
+<time>30</time>
+<describe>Put milk, cream, egg yolks, sugar, cocoa powder, vanilla extract, and salt in bowl.</describe>
+</step>
+<step>
+<speed>2</speed>
+<temp>80</temp>
+<time>1200</time>
+<describe>Add 115 grams dark chocolate, broken in pieces.
+</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Refrigerate until chilled, then churn in your ice cream maker according to the manufacturer?s instructions.</describe>
+</step>
+</recipe>

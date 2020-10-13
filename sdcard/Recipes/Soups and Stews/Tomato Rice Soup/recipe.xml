@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Tomato Rice Soup</name>
+<img>tomato soup.jpg</img>
+<totaltime>4220</totaltime>
+<ingredients>57 grams (4 tablespoons) butter
+185 grams (1 large) onion, peeled and quartered
+115 grams (2 medium) carrots, peeled and cut in chunks
+227 grams fire roasted red pepper, peeled, cored, seeded
+794 grams (28-ounce can) tomato puree
+907 grams (32 ounces) chicken stock
+2 teaspoons salt (or to taste)
+2 teaspoons balsamic vinegar
+1 teaspoon dry basil
+3 tablespoons Jasmine or Basmati rice
+Sour cream (optional)</ingredients>
+<type>2</type>
+<videoname>null</videoname>
+<step>
+<speed>5</speed>
+<temp>0</temp>
+<time>10</time>
+<describe>Add butter, onion, and carrots.</describe>
+</step>
+<step>
+<speed>5</speed>
+<temp>0</temp>
+<time>10</time>
+<describe>Scrape down sides of bowl. 
+Add roasted red peppers.</describe>
+</step>
+<step>
+<speed>3</speed>
+<temp>130</temp>
+<time>900</time>
+<describe>Scrape down sides of bowl.</describe>
+</step>
+<step>
+<speed>1</speed>
+<temp>100</temp>
+<time>2400</time>
+<describe>Add tomato puree, chicken stock, salt, balsamic vinegar, and basil.</describe>
+</step>
+<step>
+<speed>1</speed>
+<temp>100</temp>
+<time>900</time>
+<describe>Add rice.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Remove lid carefully, since the soup will be very hot.
+
+Serve hot. Add a spoon of sour cream to each serving, if desired.</describe>
+</step>
+</recipe>

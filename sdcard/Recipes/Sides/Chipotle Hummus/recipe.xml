@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Chipotle Hummus</name>
+<img>Hummus.jpg</img>
+<totaltime>120</totaltime>
+<type>4</type>
+<videoname>null</videoname>
+<ingredients>2 cans (425 grams, 15 oz per can) chickpeas, drained
+1 teaspoon salt
+1/4 cup olive oil
+2 tablespoons lime juice
+1/2 teaspoon garlic powder
+1/2 teaspoon onion powder
+1/2 teaspoon chipotle powder
+1/2 teaspoon dry epazote
+1 tablespoon Dijon mustard</ingredients>
+<step>
+<speed>5</speed>
+<temp>0</temp>
+<time>40</time>
+<describe>Put the chickpeas in the mixing bowl.
+40 seconds, starting at 5 speed and slowly increasing to 8 speed.</describe>
+</step>
+<step>
+<speed>5</speed>
+<temp>0</temp>
+<time>40</time>
+<describe>Scrape down the bowl.
+40 seconds, starting at 5 speed and slowly increasing to 8 speed.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Scrape down the bowl.
+Add the salt, olive oil, lime juice, garlic powder, onion powder, chipotle powder, epazote, and Dijon mustard.</describe>
+</step>
+<step>
+<speed>5</speed>
+<temp>0</temp>
+<time>40</time>
+<describe>40 seconds, starting at 5 speed and slowly increasing to 8 speed.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Scrape down the bowl and taste for seasoning. Add more salt or spices if desired. If the mix isn't as smooth as you prefer, blend again.</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Serve with torn flour tortillas or pita bread, pita chips, or crudité.</describe>
+</step>
+</recipe>

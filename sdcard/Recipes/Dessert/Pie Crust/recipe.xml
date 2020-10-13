@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<name>Pie Crust</name>
+<img>key lime cheese pie.jpg</img>
+<totaltime>30</totaltime>
+<ingredients>Makes enough for 1 single-crust 8- or 9-inch pie crust
+
+170 grams all purpose flour
+1 tablespoon sugar
+1/2 teaspoon salt
+113 grams butter (1/4 pound), cut in 4 chunks
+4 tablespoons ice-cold water</ingredients>
+<type>3</type>
+<videoname>null</videoname>
+<step>
+<speed>6</speed>
+<temp>0</temp>
+<time>5</time>
+<describe>Place flour, sugar, and salt in the bowl.</describe>
+</step>
+<step>
+<speed>6</speed>
+<temp>0</temp>
+<time>5</time>
+<describe>Add 1/2 of the butter.</describe>
+</step>
+<step>
+<speed>6</speed>
+<temp>0</temp>
+<time>5</time>
+<describe>Add the second half of the butter</describe>
+</step>
+<step>
+<speed>5</speed>
+<temp>0</temp>
+<time>15</time>
+<describe>Have the water ready and cup removed from the center of the lid.
+
+Add the water while the machine is running</describe>
+</step>
+<step>
+<speed>0</speed>
+<temp>0</temp>
+<time>0</time>
+<describe>Transfer the dough to a plastic zip-top bag. Flatten it into a cohesive disk. Refrigerate for at least 20 minutes or up to 2 days before using.</describe>
+</step>
+</recipe>
